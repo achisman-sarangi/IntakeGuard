@@ -1,0 +1,11 @@
+work_order_id,machine_id,facility,technician_name,technician_email,phone_number,failure_notes,priority,repair_cost,created_at
+WO-2001,MX-201,Detroit Plant,Jordan Lee,jordan.lee@example.test,202-555-0201,Hydraulic pressure below threshold,high,1240.50,2026-09-01
+WO-2002,MX-114,Austin Works,Casey Morgan,casey.morgan@example.test,202-555-0202,Bearing vibration detected,medium,680.00,2026-09-02
+WO-2003,MX-309,Detroit Plant,Riley Chen,riley.chen@example.test,202-555-0203,Escalate to controls@example.test if belt drifts,low,215.75,2026-09-03
+WO-2004,MX-087,Cleveland Forge,Taylor Brooks,taylor.brooks@example.test,202-555-0204,Coolant leak near inlet valve,high,945.20,2026-09-04
+WO-2005,MX-221,Austin Works,Alexis Patel,alexis.patel@example.test,202-555-0205,Call 415-555-0188 if controller resets,medium,510.00,2026-09-05
+WO-2006,MX-145,Detroit Plant,Morgan Diaz,morgan.diaz@example.test,202-555-0206,Replace worn drive chain,medium,330.40,2026-09-06
+WO-2007,MX-403,Cleveland Forge,Drew Kim,drew.kim@example.test,202-555-0207,Controller reported from 10.10.8.42,high,1575.00,2026-09-07
+WO-2008,MX-052,Austin Works,Jamie Reed,jamie.reed@example.test,202-555-0208,Unexpected spindle noise,low,,2026-09-08
+WO-2009,MX-298,Detroit Plant,Quinn Parker,quinn.parker@example.test,202-555-0209,Test payroll reference 987-65-4321,medium,275.00,2026-09-09
+WO-2010,MX-176,Cleveland Forge,Cameron Bell,cameron.bell@example.test,202-555-0210,Pneumatic line pressure loss,high,810.00,2026-09-10

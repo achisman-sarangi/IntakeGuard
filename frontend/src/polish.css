@@ -1,0 +1,22 @@
+.pipeline-stage {
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.results {
+  gap: 24px;
+}
+
+.release-state {
+  margin-top: 11px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.ready .release-state {
+  color: var(--ready);
+}
+
+.blocked .release-state {
+  color: var(--blocked);
+}

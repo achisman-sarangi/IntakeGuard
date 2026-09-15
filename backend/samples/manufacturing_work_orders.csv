@@ -1,0 +1,27 @@
+work_order_id,machine_id,facility,technician_name,technician_email,phone_number,failure_notes,priority,repair_cost,created_at
+WO-1001,MX-201,Detroit Plant,Jordan Lee,jordan.lee@example.test,202-555-0101,Hydraulic pressure below threshold,high,1240.50,2026-08-01
+WO-1002,MX-114,Austin Works,Casey Morgan,casey.morgan@example.test,202-555-0102,Bearing vibration detected,medium,680.00,2026-08-02
+WO-1003,MX-309,Detroit Plant,Riley Chen,riley.chen@example.test,202-555-0103,Conveyor belt tracking left,low,215.75,2026-08-03
+WO-1004,MX-087,Cleveland Forge,Taylor Brooks,taylor.brooks@example.test,202-555-0104,Coolant leak near inlet valve,high,945.20,2026-08-04
+WO-1005,MX-221,Austin Works,Alexis Patel,alexis.patel@example.test,202-555-0105,Control panel intermittently resets; escalate to controls.team@example.test,medium,510.00,2026-08-05
+WO-1006,MX-145,Detroit Plant,Morgan Diaz,morgan.diaz@example.test,202-555-0106,Replace worn drive chain,medium,330.40,2026-08-06
+WO-1007,MX-403,Cleveland Forge,Drew Kim,drew.kim@example.test,202-555-0107,Furnace temperature sensor drift,high,1575.00,2026-08-07
+WO-1008,MX-052,Austin Works,Jamie Reed,jamie.reed@example.test,202-555-0108,Unexpected spindle noise,low,190.25,2026-08-08
+WO-1009,,Detroit Plant,Quinn Parker,quinn.parker@example.test,202-555-0109,Machine identifier label unreadable,medium,275.00,2026-08-09
+WO-1010,MX-298,Cleveland Forge,Avery Scott,avery.scott@example.test,202-555-0110,Emergency stop switch sticking; call 415-555-0198,high,420.80,2026-08-10
+WO-1011,MX-176,Austin Works,Cameron Bell,cameron.bell@example.test,202-555-0111,Pneumatic line pressure loss,high,810.00,2026-08-11
+WO-1012,MX-265,Detroit Plant,Skyler Evans,skyler.evans@example.test,202-555-0112,Lubrication cycle incomplete,medium,365.50,2026-08-12
+WO-1013,MX-091,Cleveland Forge,Reese Turner,reese.turner@example.test,202-555-0113,Safety guard alignment required,low,145.00,2026-08-13
+WO-1014,MX-337,Austin Works,Rowan Cooper,rowan.cooper@example.test,202-555-0114,Motor running above rated current,high,,2026-08-14
+WO-1015,MX-208,Detroit Plant,Emerson Gray,emerson.gray@example.test,202-555-0115,Oil filter requires replacement; controller reported from 10.10.4.21,low,98.60,2026-08-15
+WO-1016,MX-119,Cleveland Forge,Finley Ward,finley.ward@example.test,202-555-0116,Calibration outside tolerance,medium,540.00,2026-08-16
+WO-1017,MX-412,Austin Works,Hayden Price,hayden.price@example.test,202-555-0117,PLC communication timeout,high,1320.75,2026-08-17
+WO-1018,MX-063,Detroit Plant,Peyton Ross,peyton.ross@example.test,202-555-0118,Vacuum pump seal worn,medium,725.30,2026-08-18
+WO-1019,MX-284,Cleveland Forge,Kendall James,kendall.james@example.test,202-555-0119,Feed roller surface damaged,medium,460.00,2026-08-19
+WO-1020,MX-156,Austin Works,Dakota Hill,dakota.hill@example.test,202-555-0120,Replace cracked inspection lamp; test payroll reference 123-45-6789,low,75.90,2026-08-20
+WO-1021,MX-371,Detroit Plant,Robin Flores,robin.flores@example.test,202-555-0121,Servo position error recurring,high,1890.00,2026-08-21
+WO-1022,MX-104,Cleveland Forge,Charlie Nguyen,charlie.nguyen@example.test,202-555-0122,Dust collector airflow reduced,medium,615.45,2026-08-22
+WO-1023,MX-243,Austin Works,Sam Bennett,sam.bennett@example.test,202-555-0123,Replace operator keypad membrane,low,205.00,2026-08-23
+WO-1024,MX-326,Detroit Plant,Lee Carter,lee.carter@example.test,202-555-0124,Gearbox temperature elevated,high,1115.10,2026-08-24
+WO-1025,MX-199,Cleveland Forge,Micah Foster,micah.foster@example.test,202-555-0125,Proximity sensor misaligned,medium,285.35,2026-08-25
+WO-1012,MX-265,Detroit Plant,Skyler Evans,skyler.evans@example.test,202-555-0112,Lubrication cycle incomplete,medium,365.50,2026-08-12

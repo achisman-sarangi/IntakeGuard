@@ -1,0 +1,1 @@
+"""IntakeGuard backend application package."""
